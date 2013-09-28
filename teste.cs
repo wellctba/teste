@@ -5,6 +5,7 @@ namespace mx5server
 	class MainClass
 	{
 		int teste;
+		int teste2;
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Maximus Server - v5.0");
